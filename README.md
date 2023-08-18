@@ -13,3 +13,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+ ### Used Languages
+* Flutter
+* Dart
+
+### Used Technologies & Frameworks
+* Visual Code
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.

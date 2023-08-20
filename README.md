@@ -14,6 +14,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## ScreenShots
+
+![Screenshot (94)](https://github.com/trsrathnayaka/Food_Item_Search_Page/assets/97075043/89bcff80-577d-4991-a690-6483d5378af7)
+
+![Screenshot (95)](https://github.com/trsrathnayaka/Food_Item_Search_Page/assets/97075043/60ad4787-bb96-4633-a39e-223520b661fc)
+
+
  ### Used Languages
 * Flutter
 * Dart
